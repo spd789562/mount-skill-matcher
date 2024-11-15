@@ -1,0 +1,9 @@
+[package]
+name = "mount_match"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wz_reader = "0.0.12"
+image-compare = "0.4.1"
+image = { version = "0.25.0", default-features = false }
